@@ -32,3 +32,28 @@ Los códigos de estado es la forma en que una API REST usa para informar al usua
 200 OK: solicitud exitosa
 404 Not Found: el recurso no existe
 500 Internal Server Error: hubo un error interno en el servidor al ejecutar la solicitud
+
+* Control de Versiones (Git):
+Describe los pasos básicos para crear una nueva rama, trabajar en ella y luego fusionarla con la rama principal (main o master).
+
+Crear una rama en git 
+```
+git checkout -b feature/new-branch
+```
+Registrar los cambios en el código, y agrega y confirma los cambios
+```
+git add .
+git commit -m "feat: changes"
+```
+Cambiar a la rama principal (main o master)
+```
+git checkout main
+```
+Fusionar la nueva rama con la principal
+```
+git merge feature/new-branch
+```
+Eliminar la rama después de la fusión
+```
+git branch -d feature/new-branch
+```
