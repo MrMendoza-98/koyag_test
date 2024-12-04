@@ -57,3 +57,29 @@ Eliminar la rama después de la fusión
 ```
 git branch -d feature/new-branch
 ```
+* ¿Qué harías si te asignan una tarea técnica que no sabes cómo resolver?
+
+Para atender una tarea técnica que no sé como resolver realizaría los siguientes pasos:
+
+- Entender el problema:
+Recepcionar la tarea o problema.
+Identificarlos objetivos y entender los posibles impedimento o restricciones.
+Preguntar si no es claro los requerimientos para evitar perdida de tiempo y malentendidos.
+
+- Investigar
+Buscar en la documentación oficial de las tecnologías si no tengo conocimientos técnicos de como realizar la tarea.
+Revisar tutoriales o recursos confiables.
+Si la tarea involucra código existente, analizarlo para entender cómo funciona.
+
+- Dividir la tarea en partes más pequeñas
+Si la tarea es muy compleja se dividen en subtareas para de esa forma sea manejable.
+
+- Solicitar ayuda si la necesito
+Consultar con compañeros, expertos en el tema o el equipo técnico.
+
+- Validar el resultado
+Asegurar que la solución implementada cumple con los requerimientos iniciales.
+Realizar pruebas para verificar la funcionalidad, rendimiento y posibles errores.
+
+- Comunicar los avances
+Mantener a las personas o equipo informado sobre los avances y cualquier obstáculo encontrado.
