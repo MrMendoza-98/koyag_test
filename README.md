@@ -23,3 +23,12 @@ Consulta SQL para contar usuarios activos:
 ```
 SELECT COUNT(*) AS active_users FROM users WHERE status = 'active';
 ```
+
+* APIs RESTful:
+Explica brevemente qué son los status codes en una API REST y menciona al menos tres códigos comunes con su significado.
+
+Los códigos de estado es la forma en que una API REST usa para informar al usuario sobre el resultado de su solicitud, indicando si la solicitud fue exitosa o si tuvo algún error.
+
+200 OK: solicitud exitosa
+404 Not Found: el recurso no existe
+500 Internal Server Error: hubo un error interno en el servidor al ejecutar la solicitud
